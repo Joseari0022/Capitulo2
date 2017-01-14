@@ -4,21 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Calcular_perimetro
+namespace Convecior_de_grados
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int n, a, r;
-            Console.WriteLine("Dijite el numero de lados: ");
+            int n;
+            double r;
+            Console.WriteLine("Dijete los grados celcius: ");
             n = int.Parse(Console.ReadLine());
-            Console.WriteLine("Dijite el apotema: ");
-            a = int.Parse(Console.ReadLine());
-            r = n * a / 2;
+            r = n - 32 / 18;
             Console.WriteLine("El resultados es: " + r);
             Console.ReadLine();
-
         }
     }
 }

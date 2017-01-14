@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Calcular_perimetro
+namespace Generar_error
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int n, a, r;
+            Int n, a, r;
             Console.WriteLine("Dijite el numero de lados: ");
             n = int.Parse(Console.ReadLine());
             Console.WriteLine("Dijite el apotema: ");
@@ -18,7 +18,6 @@ namespace Calcular_perimetro
             r = n * a / 2;
             Console.WriteLine("El resultados es: " + r);
             Console.ReadLine();
-
         }
     }
 }

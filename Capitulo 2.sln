@@ -5,6 +5,14 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calcular_Perimetro", "Calcular_Perimetro\Calcular_Perimetro.csproj", "{D4B24A18-FD55-4C8D-974E-6ECDB7E830CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cambio dola euro", "Cambio dola euro\Cambio dola euro.csproj", "{31B2DA7B-9D6D-44C8-8713-4BBDE0EFBB57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convercion a grado", "Convercion a grado\Convercion a grado.csproj", "{31E2F73D-D74C-4B4F-9634-2B0727E1FAFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generar Error", "Generar Error\Generar Error.csproj", "{7A8B5403-890F-4621-96F2-D36E52A95311}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grado Radianes", "Grado Radianes\Grado Radianes.csproj", "{3FF131DC-504F-4BCB-9D55-39BBAADBC85A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +23,22 @@ Global
 		{D4B24A18-FD55-4C8D-974E-6ECDB7E830CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4B24A18-FD55-4C8D-974E-6ECDB7E830CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4B24A18-FD55-4C8D-974E-6ECDB7E830CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31B2DA7B-9D6D-44C8-8713-4BBDE0EFBB57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B2DA7B-9D6D-44C8-8713-4BBDE0EFBB57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B2DA7B-9D6D-44C8-8713-4BBDE0EFBB57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B2DA7B-9D6D-44C8-8713-4BBDE0EFBB57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31E2F73D-D74C-4B4F-9634-2B0727E1FAFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E2F73D-D74C-4B4F-9634-2B0727E1FAFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E2F73D-D74C-4B4F-9634-2B0727E1FAFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E2F73D-D74C-4B4F-9634-2B0727E1FAFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A8B5403-890F-4621-96F2-D36E52A95311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A8B5403-890F-4621-96F2-D36E52A95311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A8B5403-890F-4621-96F2-D36E52A95311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A8B5403-890F-4621-96F2-D36E52A95311}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FF131DC-504F-4BCB-9D55-39BBAADBC85A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF131DC-504F-4BCB-9D55-39BBAADBC85A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF131DC-504F-4BCB-9D55-39BBAADBC85A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF131DC-504F-4BCB-9D55-39BBAADBC85A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
